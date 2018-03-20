@@ -1,6 +1,10 @@
 # angular-tetris
 
-This is tetris reincarnation on AngularJS
+Tetris reincarnation on AngularJS
+
+### Demo
+
+https://omieliekh.github.io/angular-tetris/
 
 ### Installation
 
